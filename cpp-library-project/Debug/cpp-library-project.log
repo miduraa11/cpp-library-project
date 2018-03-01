@@ -1,0 +1,19 @@
+﻿  Publication.cpp
+  Magazine.cpp
+  LibraryControl.cpp
+c:\users\adam\desktop\git\cpp-library-project\cpp-library-project\librarycontrol.h(2): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+c:\users\adam\desktop\git\cpp-library-project\cpp-library-project\librarycontrol.h(3): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+c:\users\adam\desktop\git\cpp-library-project\cpp-library-project\librarycontrol.h(4): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+c:\users\adam\desktop\git\cpp-library-project\cpp-library-project\librarycontrol.h(5): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  LibraryApp.cpp
+c:\users\adam\desktop\git\cpp-library-project\cpp-library-project\librarycontrol.h(2): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+c:\users\adam\desktop\git\cpp-library-project\cpp-library-project\librarycontrol.h(3): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+c:\users\adam\desktop\git\cpp-library-project\cpp-library-project\librarycontrol.h(4): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+c:\users\adam\desktop\git\cpp-library-project\cpp-library-project\librarycontrol.h(5): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Library.cpp
+  DataReader.cpp
+  Book.cpp
+  Generowanie kodu...
+c:\users\adam\desktop\git\cpp-library-project\cpp-library-project\datareader.cpp(159): warning C4715: "DataReader::readAndCreateMagazine”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\adam\desktop\git\cpp-library-project\cpp-library-project\datareader.cpp(98): warning C4715: "DataReader::readAndCreateBook”: niewszystkie ścieżki kodu zwracają wartość
+  cpp-library-project.vcxproj -> C:\Users\Adam\Desktop\Git\cpp-library-project\Debug\cpp-library-project.exe
